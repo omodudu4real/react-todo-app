@@ -6,7 +6,7 @@ A modern and responsive Todo application built with **React** and **Vite**. This
 
 ## 🚀 Live Demo
 
-**Live Site:** *Coming Soon*
+**Live Site:** https://omodudu-todo-app.netlify.app/
 
 ---
 
@@ -28,30 +28,30 @@ A modern and responsive Todo application built with **React** and **Vite**. This
 
 ## ✨ Features
 
-* ✅ Add new tasks
-* ✅ Mark tasks as completed
-* ✅ Delete tasks
-* ✅ Filter tasks by:
+- ✅ Add new tasks
+- ✅ Mark tasks as completed
+- ✅ Delete tasks
+- ✅ Filter tasks by:
+  - All
+  - Open
+  - Completed
 
-  * All
-  * Open
-  * Completed
-* ✅ Automatically save tasks using Local Storage
-* ✅ Tasks persist after refreshing the browser
-* ✅ Dynamic task counter
-* ✅ Friendly empty-state messages
-* ✅ Responsive user interface
+- ✅ Automatically save tasks using Local Storage
+- ✅ Tasks persist after refreshing the browser
+- ✅ Dynamic task counter
+- ✅ Friendly empty-state messages
+- ✅ Responsive user interface
 
 ---
 
 ## 🛠️ Built With
 
-* React
-* Vite
-* JavaScript (ES6+)
-* HTML5
-* CSS3
-* Local Storage API
+- React
+- Vite
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Local Storage API
 
 ---
 
@@ -85,17 +85,17 @@ screenshots/
 
 Building this project helped me gain hands-on experience with:
 
-* React Components
-* Props
-* State management with `useState`
-* Side effects using `useEffect`
-* Conditional rendering
-* Event handling
-* Rendering lists with `map()`
-* Filtering data with `filter()`
-* Persisting application data using Local Storage
-* Creating reusable utility functions
-* Improving UI/UX through thoughtful design decisions
+- React Components
+- Props
+- State management with `useState`
+- Side effects using `useEffect`
+- Conditional rendering
+- Event handling
+- Rendering lists with `map()`
+- Filtering data with `filter()`
+- Persisting application data using Local Storage
+- Creating reusable utility functions
+- Improving UI/UX through thoughtful design decisions
 
 ---
 
@@ -103,11 +103,11 @@ Building this project helped me gain hands-on experience with:
 
 To make the project more user-friendly, I implemented several enhancements beyond the tutorial:
 
-* Improved the header with context-aware messages.
-* Added friendly empty-state messages.
-* Improved singular and plural task handling.
-* Separated Local Storage logic into reusable utility functions.
-* Customized parts of the user interface for a better user experience.
+- Improved the header with context-aware messages.
+- Added friendly empty-state messages.
+- Improved singular and plural task handling.
+- Separated Local Storage logic into reusable utility functions.
+- Customized parts of the user interface for a better user experience.
 
 ---
 
@@ -141,13 +141,13 @@ npm run dev
 
 ## 🔮 Future Improvements
 
-* Edit existing tasks
-* Search tasks
-* Due dates
-* Task categories
-* Drag and drop task ordering
-* Dark mode
-* Animations
+- Edit existing tasks
+- Search tasks
+- Due dates
+- Task categories
+- Drag and drop task ordering
+- Dark mode
+- Animations
 
 ---
 
